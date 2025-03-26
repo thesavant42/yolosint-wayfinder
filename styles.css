@@ -1,0 +1,149 @@
+/* styles.css */
+
+
+/* YOLOSINT Wayfinder UI Styles */
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+#root {
+    padding: 20px;
+}
+
+input[type="text"],
+select {
+    background-color: #fff;
+    color: #000;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button {
+    background-color: #dc2626;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #b91c1c;
+}
+
+hr {
+    border-color: #4b5563;
+}
+
+a {
+    color: #3b82f6;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.ml-4 {
+    margin-left: 1rem;
+}
+
+.ml-6 {
+    margin-left: 1.5rem;
+}
+
+.text-sm {
+    font-size: 0.875rem;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.text-xl {
+    font-size: 1.25rem;
+}
+
+.mb-4 {
+    margin-bottom: 1rem;
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.p-4 {
+    padding: 1rem;
+}
+
+.border-l {
+    border-left-width: 1px;
+}
+
+.border-gray-600 {
+    border-color: #4b5563;
+}
+
+.pl-2 {
+    padding-left: 0.5rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.hover\:text-red-400:hover {
+    color: #f87171;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.text-gray-100 {
+    color: #f3f4f6;
+}
+
+.text-gray-400 {
+    color: #9ca3af;
+}
+
+.text-gray-600 {
+    color: #4b5563;
+}
+
+.bg-red-600 {
+    background-color: #dc2626;
+}
+
+.bg-red-600:hover {
+    background-color: #b91c1c;
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.list-disc {
+    list-style-type: disc;
+}
+
+.pl-6 {
+    padding-left: 1.5rem;
+}
+
+.my-6 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.border-gray-700 {
+    border-color: #374151;
+}

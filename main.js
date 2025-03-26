@@ -1,0 +1,1 @@
+import './yolosint-wayfinder-ui.js';

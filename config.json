@@ -1,0 +1,8 @@
+{
+    "defaultDomain": "archive.org",
+    "defaultLimit": 1000,
+    "allowlist": [],
+    "blocklist": [
+        "gov"
+    ]
+}
