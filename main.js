@@ -1,1 +1,1 @@
-import './yolosint-wayfinder-ui.js';
+import './yolosint-wayfinder-ui.compiled.js';

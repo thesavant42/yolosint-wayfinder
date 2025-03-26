@@ -1,0 +1,26 @@
+{
+    "name": "yolosint-wayfinder",
+    "version": "1.0.0",
+    "description": "A stealthy web-based archive explorer for the YOLOSINT toolkit.",
+    "main": "main.js",
+    "scripts": {
+        "build": "babel yolosint-wayfinder-ui.js -o yolosint-wayfinder-ui.compiled.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thesavant42/yolosint-wayfinder.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/thesavant42/yolosint-wayfinder/issues"
+    },
+    "homepage": "https://github.com/thesavant42/yolosint-wayfinder#readme",
+    "devDependencies": {
+        "@babel/cli": "^7.27.0",
+        "@babel/core": "^7.26.10",
+        "@babel/preset-react": "^7.26.3"
+    }
+}
